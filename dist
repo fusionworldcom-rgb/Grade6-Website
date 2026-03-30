@@ -1,0 +1,18 @@
+<script>start("/Users/jaibharat/Documents/DI-G6/SchoolWebsite/dist/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("_verify_asar","_verify_asar",1,1312,"1.3 kB",1774849463,"3/30/26, 11:14:23 AM");</script>
+<script>addRow("_verify_asar 2","_verify_asar%202",1,64,"64 B",1774849454,"3/30/26, 11:14:14 AM");</script>
+<script>addRow(".icon-icns",".icon-icns",1,96,"96 B",1774693601,"3/28/26, 3:56:41 PM");</script>
+<script>addRow(".icon-ico",".icon-ico",1,96,"96 B",1774852982,"3/30/26, 12:13:02 PM");</script>
+<script>addRow("mac-arm64","mac-arm64",1,96,"96 B",1774849406,"3/30/26, 11:13:26 AM");</script>
+<script>addRow("win-arm64-unpacked","win-arm64-unpacked",1,704,"704 B",1774854990,"3/30/26, 12:46:30 PM");</script>
+<script>addRow("builder-debug.yml","builder-debug.yml",0,6375,"6.2 kB",1774852993,"3/30/26, 12:13:13 PM");</script>
+<script>addRow("builder-effective-config.yaml","builder-effective-config.yaml",0,657,"657 B",1774852866,"3/30/26, 12:11:06 PM");</script>
+<script>addRow("Grade 6 School App 1.0.0.exe","Grade%206%20School%20App%201.0.0.exe",0,777141542,"741 MB",1774852993,"3/30/26, 12:13:13 PM");</script>
+<script>addRow("Grade 6 School App Setup 1.0.0.exe","Grade%206%20School%20App%20Setup%201.0.0.exe",0,777388173,"741 MB",1774852982,"3/30/26, 12:13:02 PM");</script>
+<script>addRow("Grade 6 School App Setup 1.0.0.exe.blockmap","Grade%206%20School%20App%20Setup%201.0.0.exe.blockmap",0,806035,"787 kB",1774852987,"3/30/26, 12:13:07 PM");</script>
+<script>addRow("Grade 6 School App-1.0.0-arm64-mac.zip","Grade%206%20School%20App-1.0.0-arm64-mac.zip",0,791347024,"755 MB",1774777765,"3/29/26, 3:19:25 PM");</script>
+<script>addRow("Grade 6 School App-1.0.0-arm64-mac.zip.blockmap","Grade%206%20School%20App-1.0.0-arm64-mac.zip.blockmap",0,821111,"802 kB",1774777770,"3/29/26, 3:19:30 PM");</script>
+<script>addRow("Grade 6 School App-1.0.0-arm64.dmg","Grade%206%20School%20App-1.0.0-arm64.dmg",0,796283636,"759 MB",1774777706,"3/29/26, 3:18:26 PM");</script>
+<script>addRow("Grade 6 School App-1.0.0-arm64.dmg.blockmap","Grade%206%20School%20App-1.0.0-arm64.dmg.blockmap",0,826139,"807 kB",1774777712,"3/29/26, 3:18:32 PM");</script>
+<script>addRow("Grade6SchoolApp-Windows-Quick-Web.zip","Grade6SchoolApp-Windows-Quick-Web.zip",0,310596,"303 kB",1774856897,"3/30/26, 1:18:17 PM");</script>
